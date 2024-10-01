@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\Rajesh kumar Reddy V\Desktop\Hibernate\manytomany-bi\src\main\java\com\jsp\driver\test.java"/>
+			<item value="C:\Users\Rajesh kumar Reddy V\Desktop\Hibernate\onetomany-bi\src\main\java\com\jsp\driver\test.java"/>
+			<item value="C:\Users\Rajesh kumar Reddy V\Desktop\Hibernate\manytomany-uni\src\main\java\com\jsp\driver\test.java"/>
+			<item value="C:\Users\Rajesh kumar Reddy V\Desktop\Hibernate\onetomany-mapping-uni\src\main\java\com\jsp\driver\test.java"/>
+			<item value="C:\Users\Rajesh kumar Reddy V\Desktop\Hibernate\hibernate-demo\src\main\java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="com.jsp"/>
+			<item value="com.org"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="school-management-app"/>
+			<item value="manytomany-bi"/>
+			<item value="onetomany-bi"/>
+			<item value="onetoone-bi"/>
+			<item value="manytomany-uni"/>
+			<item value="manytoone-mapping-uni"/>
+			<item value="onetomany-mapping-uni"/>
+			<item value="onetoone-mappimg-uni"/>
+			<item value="onetoone-mapping"/>
+			<item value="hibernate-demo"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>
